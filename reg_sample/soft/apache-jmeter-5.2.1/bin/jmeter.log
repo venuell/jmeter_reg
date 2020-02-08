@@ -1,47 +1,111 @@
-2020-02-08 13:08:35,011 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
-2020-02-08 13:08:35,089 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2020-02-08 13:08:35,091 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2020-02-08 13:08:35,093 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
-2020-02-08 13:08:35,093 INFO o.a.j.JMeter: Version 5.2.1
-2020-02-08 13:08:35,093 INFO o.a.j.JMeter: java.version=1.8.0_202
-2020-02-08 13:08:35,094 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2020-02-08 13:08:35,094 INFO o.a.j.JMeter: os.name=Windows 10
-2020-02-08 13:08:35,094 INFO o.a.j.JMeter: os.arch=amd64
-2020-02-08 13:08:35,094 INFO o.a.j.JMeter: os.version=10.0
-2020-02-08 13:08:35,094 INFO o.a.j.JMeter: file.encoding=Cp1252
-2020-02-08 13:08:35,094 INFO o.a.j.JMeter: java.awt.headless=null
-2020-02-08 13:08:35,094 INFO o.a.j.JMeter: Max memory     =1073741824
-2020-02-08 13:08:35,095 INFO o.a.j.JMeter: Available Processors =4
-2020-02-08 13:08:35,105 INFO o.a.j.JMeter: Default Locale=English (EN)
-2020-02-08 13:08:35,112 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
-2020-02-08 13:08:35,112 INFO o.a.j.JMeter: JMeterHome=C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1
-2020-02-08 13:08:35,112 INFO o.a.j.JMeter: user.dir  =C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin
-2020-02-08 13:08:35,115 INFO o.a.j.JMeter: PWD       =C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin
-2020-02-08 13:08:35,118 INFO o.a.j.JMeter: IP: 10.24.242.33 Name: INR1601323 FullName: INR1601323.corp.sct.com
-2020-02-08 13:08:35,378 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
-2020-02-08 13:08:35,393 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.nimbus.NimbusLookAndFeel [Darcula]
-2020-02-08 13:08:35,393 INFO o.a.j.JMeter: Setting LAF to: javax.swing.plaf.nimbus.NimbusLookAndFeel
-2020-02-08 13:08:35,442 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2020-02-08 13:08:38,928 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-02-08 13:08:38,929 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-02-08 13:08:38,929 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-02-08 13:08:38,931 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-02-08 13:08:38,931 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2020-02-08 13:08:38,931 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2020-02-08 13:08:39,636 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
-2020-02-08 13:08:39,637 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin\proxyserver.jks
-2020-02-08 13:08:39,931 INFO o.a.j.s.FileServer: Default base='C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin'
-2020-02-08 13:08:41,200 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2020-02-08 13:08:41,202 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2020-02-08 13:08:41,202 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2020-02-08 13:08:41,202 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2020-02-08 13:08:43,201 INFO o.a.j.g.a.t.TemplateManager: Reading templates from: C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin\templates\templates.xml
-2020-02-08 13:09:02,387 INFO o.a.j.g.a.Load: Loading file: C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\scripts\R03_Add_Drop\R03_corr.jmx
-2020-02-08 13:09:02,387 INFO o.a.j.s.FileServer: Set new base='C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\scripts\R03_Add_Drop'
-2020-02-08 13:09:02,553 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2020-02-08 13:09:02,559 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2020-02-08 13:09:02,563 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2020-02-08 13:09:02,569 INFO o.a.j.s.SaveService: Loading file: C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\scripts\R03_Add_Drop\R03_corr.jmx
-2020-02-08 13:09:02,595 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
-2020-02-08 13:09:02,597 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
-2020-02-08 13:09:03,780 INFO o.a.j.s.FileServer: Set new base='C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\scripts\R03_Add_Drop'
+2020-02-08 22:53:17,013 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2020-02-08 22:53:17,034 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-02-08 22:53:17,038 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-02-08 22:53:17,038 INFO o.a.j.JMeter: Setting System property: java.rmi.server.hostname=192.168.1.5
+2020-02-08 22:53:17,041 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-02-08 22:53:17,041 INFO o.a.j.JMeter: Version 5.2.1
+2020-02-08 22:53:17,041 INFO o.a.j.JMeter: java.version=1.8.0_202
+2020-02-08 22:53:17,042 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-02-08 22:53:17,042 INFO o.a.j.JMeter: os.name=Windows 10
+2020-02-08 22:53:17,042 INFO o.a.j.JMeter: os.arch=amd64
+2020-02-08 22:53:17,042 INFO o.a.j.JMeter: os.version=10.0
+2020-02-08 22:53:17,042 INFO o.a.j.JMeter: file.encoding=Cp1252
+2020-02-08 22:53:17,042 INFO o.a.j.JMeter: java.awt.headless=null
+2020-02-08 22:53:17,042 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-02-08 22:53:17,043 INFO o.a.j.JMeter: Available Processors =4
+2020-02-08 22:53:17,048 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-02-08 22:53:17,049 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2020-02-08 22:53:17,049 INFO o.a.j.JMeter: JMeterHome=C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1
+2020-02-08 22:53:17,049 INFO o.a.j.JMeter: user.dir  =C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin
+2020-02-08 22:53:17,051 INFO o.a.j.JMeter: PWD       =C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin
+2020-02-08 22:53:17,054 INFO o.a.j.JMeter: IP: 192.168.1.5 Name: INR1601323 FullName: INR1601323.corp.sct.com
+2020-02-08 22:53:17,256 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2020-02-08 22:53:17,275 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.nimbus.NimbusLookAndFeel [Darcula]
+2020-02-08 22:53:17,276 INFO o.a.j.JMeter: Setting LAF to: javax.swing.plaf.nimbus.NimbusLookAndFeel
+2020-02-08 22:53:17,355 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-02-08 22:53:20,582 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-02-08 22:53:20,582 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-02-08 22:53:20,583 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-02-08 22:53:20,583 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-02-08 22:53:20,583 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-02-08 22:53:20,583 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-02-08 22:53:21,199 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-02-08 22:53:21,199 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin\proxyserver.jks
+2020-02-08 22:53:21,414 INFO o.a.j.s.FileServer: Default base='C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\soft\apache-jmeter-5.2.1\bin'
+2020-02-08 22:53:22,476 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-02-08 22:53:22,476 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-02-08 22:53:22,476 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-02-08 22:53:22,476 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-02-08 22:53:35,707 INFO o.a.j.g.a.Load: Loading file: C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\scripts\test_world\testing_world.jmx
+2020-02-08 22:53:35,707 INFO o.a.j.s.FileServer: Set new base='C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\scripts\test_world'
+2020-02-08 22:53:35,876 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-02-08 22:53:35,883 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-02-08 22:53:35,887 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-02-08 22:53:35,892 INFO o.a.j.s.SaveService: Loading file: C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\scripts\test_world\testing_world.jmx
+2020-02-08 22:53:36,215 INFO o.a.j.s.FileServer: Set new base='C:\Users\venugopals\Desktop\code_repo\0205\reg_sample\scripts\test_world'
+2020-02-08 22:53:42,068 INFO o.a.j.e.DistributedRunner: Configuring remote engine: 13.233.129.186:1433
+2020-02-08 22:53:42,071 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2020-02-08 22:53:42,431 INFO o.a.j.e.DistributedRunner: Starting distributed test with remote engines: [13.233.129.186:1433] @ Sat Feb 08 22:53:42 IST 2020 (1581182622427)
+2020-02-08 22:53:42,431 INFO o.a.j.e.ClientJMeterEngine: running clientengine run method
+2020-02-08 22:53:42,437 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-02-08 22:53:42,437 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-02-08 22:53:42,763 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2020-02-08 22:53:42,764 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2020-02-08 22:53:42,767 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-02-08 22:53:42,784 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2020-02-08 22:53:42,784 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2020-02-08 22:53:42,810 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2020-02-08 22:53:42,810 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2020-02-08 22:53:42,813 INFO o.a.j.s.BatchSampleSender: Using batching (client settings) for this run. Thresholds: num=100, time=60000
+2020-02-08 22:53:42,813 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run
+2020-02-08 22:54:59,812 ERROR o.a.j.e.ClientJMeterEngine: Error in rconfigure() method
+java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.io.EOFException
+	at sun.rmi.transport.StreamRemoteCall.executeCall(Unknown Source) ~[?:1.8.0_202]
+	at sun.2020-02-08 23:07:05,821 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-02-08 23:07:05,822 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-02-08 23:07:05,842 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-02-08 23:07:06,167 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2020-02-08 23:07:06,168 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2020-02-08 23:07:06,168 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-02-08 23:07:06,168 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2020-02-08 23:07:06,176 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-02-08 23:07:06,176 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-02-08 23:07:06,184 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2020-02-08 23:07:06,204 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = INR1601323
+2020-02-08 23:07:06,223 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-02-08 23:07:06,778 INFO o.a.j.g.a.Start: Stopping test
+2020-02-08 23:07:06,831 INFO o.a.j.t.JMeterThread: Stopping: Thread Group 1-1
+2020-02-08 23:07:06,832 WARN o.a.j.t.JMeterThread: Interrupting: Thread Group 1-1 sampler: /-67
+2020-02-08 23:07:06,836 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2020-02-08 23:07:06,836 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-02-08 23:07:06,839 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+ispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_202]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_202]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_202]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_202]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_202]
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readByte(Unknown Source) ~[?:1.8.0_202]
+	... 24 more
+2020-02-08 22:54:59,817 INFO o.a.j.e.ClientJMeterEngine: Interrupting RMI Reaper
+2020-02-08 22:55:12,941 INFO o.a.j.e.DistributedRunner: Remote engines have been started:[]
+2020-02-08 22:55:12,941 ERROR o.a.j.e.DistributedRunner: The following remote engines have not started:[13.233.129.186:1433]
+2020-02-08 23:06:57,432 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-02-08 23:06:57,437 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-02-08 23:06:57,448 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-02-08 23:06:57,489 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2020-02-08 23:06:57,489 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2020-02-08 23:06:57,489 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-02-08 23:06:57,489 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2020-02-08 23:06:57,495 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-02-08 23:06:57,496 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-02-08 23:06:57,504 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2020-02-08 23:06:57,556 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = INR1601323
+2020-02-08 23:06:57,573 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-02-08 23:06:58,353 INFO o.a.j.g.a.Start: Stopping test
+2020-02-08 23:06:58,363 INFO o.a.j.t.JMeterThread: Stopping: Thread Group 1-1
+2020-02-08 23:06:58,363 WARN o.a.j.t.JMeterThread: Interrupting: Thread Group 1-1 sampler: /-67
+2020-02-08 23:06:58,367 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2020-02-08 23:06:58,367 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-02-08 23:06:58,368 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
